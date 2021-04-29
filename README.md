@@ -3,9 +3,9 @@ This proyect is a car insurance.
 
 
 Configuration and Deployment ❄️
-1.Clone the project
-2.Open your code editor
-3.Open the project in your code editor
+1. Clone the project
+2. Open your code editor
+3. Open the project in your code editor
 
 ## Built with 🛠️
 
